@@ -2,13 +2,13 @@
 
 ### *About this site:*
 
-#### This is the github page. It is used for several purpose and maintained by me.
+#### Personal github page. It is used for several purpose and maintained by me.
 
-### *Used Tags and Syntaxex:*
+### *Used Tags and Syntaxes:*
 
-#### For now, nothing..
+#### header 1, 3 and 4 ; **bold** ; _italic_.
 
 ### *About Me:*
 
 #### My name is _Ahmad Aidil Fitri_, You can call me **AIDIL**.
-#### I am a student at the batch **JackFox** of Hacktiv8, Jakarta, Indonesia.
+#### I am a student at the batch of **JackFox** of Hacktiv8, Jakarta, Indonesia.
