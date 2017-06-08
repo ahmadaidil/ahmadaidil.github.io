@@ -16,6 +16,6 @@
 
 ## _Future Plans_
 
-1. Layouting
-2. Styling
-3, etc.
+1. *Layouting*
+2. *Styling*
+3. etc.
