@@ -1,11 +1,14 @@
-#Welcome to my site!
+# Welcome to my site!
 
-###*About this site:*
-####This is the github page. It is used for several purpose and maintaned by me.
+### *About this site:*
 
-###*Used Tags and Syntaxex:*
-####For now, nothing..
+#### This is the github page. It is used for several purpose and maintained by me.
 
-###*About Me:*
-####My name is _Ahmad Aidil Fitri_, You can call me **AIDIL**.
-####I am a student at the batch **JackFox** of Hacktiv8, Jakarta, Indonesia.
+### *Used Tags and Syntaxex:*
+
+#### For now, nothing..
+
+### *About Me:*
+
+#### My name is _Ahmad Aidil Fitri_, You can call me **AIDIL**.
+#### I am a student at the batch **JackFox** of Hacktiv8, Jakarta, Indonesia.
