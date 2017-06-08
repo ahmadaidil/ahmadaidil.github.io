@@ -12,3 +12,10 @@
 
 #### My name is _Ahmad Aidil Fitri_, You can call me **AIDIL**.
 #### I am a student at the batch of **JackFox** of Hacktiv8, Jakarta, Indonesia.
+
+
+## _Future Plans_
+
+1. Layouting
+2. Styling
+3, etc.
