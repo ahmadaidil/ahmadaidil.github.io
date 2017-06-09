@@ -118,6 +118,12 @@ article p{
   font-family: 'Raleway', sans-serif;
 }
 
+article h3{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  margin-top: 15px;
+}
+
 footer{
   background-color: black;
   padding: 20px;
@@ -128,4 +134,11 @@ footer h5{
   font-family: 'Amatic SC', sans-serif;
   font-size: 20px;
   text-align: center;
+}
+
+.img-circle{
+  display: block;
+  border-radius: 50%;
+  margin: auto;
+  padding-top: 20px;
 }
