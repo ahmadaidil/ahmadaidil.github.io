@@ -1,0 +1,13 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background-image: url("assets/img/back-pattern.jpg");
+}
+
+body header nav{
+  background-color: #000;
+  border: 1px solid black;
+}
