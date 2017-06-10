@@ -124,8 +124,8 @@ article h3{
   margin-top: 15px;
 }
 
-article ol li{
-  padding: 20px;
+article ol{
+  margin: 20px;
 }
 
 footer{
