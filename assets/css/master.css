@@ -118,6 +118,10 @@ article p{
   font-family: 'Raleway', sans-serif;
 }
 
+article ol li p{
+  padding: 20px;
+}
+
 article h3{
   font-family: 'Raleway', sans-serif;
   text-align: center;
