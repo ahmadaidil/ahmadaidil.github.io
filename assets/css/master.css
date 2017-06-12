@@ -118,6 +118,12 @@ article p{
   font-family: 'Raleway', sans-serif;
 }
 
+#code{
+  border: 1px solid gray;
+  padding: 1px;
+  font-family: 'Lucida Console', monospace;
+}
+
 article h3{
   font-family: 'Raleway', sans-serif;
   text-align: center;
